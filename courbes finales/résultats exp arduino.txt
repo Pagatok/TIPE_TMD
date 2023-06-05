@@ -1,0 +1,5 @@
+
+
+nbr changements de signes = 119
+période = 0.34s
+longueur pendule = 0.04m
